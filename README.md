@@ -68,9 +68,3 @@ KNN is a simple and effective classification algorithm that predicts the class o
 - Perform hyperparameter tuning (optimal K value)
 - Deploy the model as a web application
 
-## 👥 Project Note
-This project was completed as part of an academic assignment. The notebook has been improved and structured for portfolio purposes.
-
----
-
-## 📁 Project Structure
